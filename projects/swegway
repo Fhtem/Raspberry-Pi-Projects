@@ -1,0 +1,6 @@
+def nate():
+  print ("Go home romans")
+  print ("Go back, I say")
+
+nate()
+nate()

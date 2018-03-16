@@ -1,0 +1,3 @@
+import swegway
+
+swegway.hello()
